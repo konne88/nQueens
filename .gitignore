@@ -1,9 +1,11 @@
 **#*#
 **~
-src/**/*.scm
 src/coq/Makefile
-src/**/*.glob
-src/**/*.v.d
-src/**/*.vo
-src/**/*.aux
-src/**/compiled
+src/coq/*.scm
+src/coq/*.glob
+src/coq/*.v.d
+src/coq/*.vo
+src/coq/*.aux
+compiled/
+queens.rkt
+src/racket/rosette/
