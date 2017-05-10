@@ -7,7 +7,7 @@ Build with:
 
 Find a solution for an 8x8 chessboard with:
 
-    docker run queens
+    docker run queens 8
 
 Development
 ===========
